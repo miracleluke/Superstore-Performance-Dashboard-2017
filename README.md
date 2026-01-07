@@ -50,6 +50,6 @@ The dashboard consists of three pages;
 
 
 
-**Author**
+Author:
 **Miracle Luke**
 
